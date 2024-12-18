@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**c0da3n/c0da3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h1>💻 Jungi Min 💻</h1>
+</div>
+<h3 align="center">⚒️ Tech Stack ⚒️</h3>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/></a>&nbsp 
+  <br/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>&nbsp
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp
+</div>
+<h3 align="center">🚀 Skills 🚀</h3>
+<br/>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=noob3er&theme=tokyonight" alt="GitHub Streak" width="74.4%" /></a>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c0da3n&show_icons=true&theme=tokyonight" width="42%"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0da3n&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="32%"/>
+</div>
