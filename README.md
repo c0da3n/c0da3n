@@ -17,7 +17,7 @@
 <h3 align="center">🚀 Skills 🚀</h3>
 <br/>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=noob3er&theme=tokyonight" alt="GitHub Streak" width="74.4%" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=c0da3n&theme=tokyonight" alt="GitHub Streak" width="74.4%" /></a>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=c0da3n&show_icons=true&theme=tokyonight" width="42%"/>  
