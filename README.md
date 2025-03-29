@@ -19,6 +19,5 @@
 <br/>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=c0da3n&show_icons=true&theme=tokyonight" width="42%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0da3n&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="32%"/>
 </div>
 
