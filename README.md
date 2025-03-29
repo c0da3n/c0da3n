@@ -1,8 +1,14 @@
 <div align="center">
   <h1>Jay Min </h1>
 </div>
+<div>
+  <img align='left'  width="50%" src="https://github-readme-stats.vercel.app/api?username=c0da3n&show_icons=true&theme=dark"/>  
+  <img align='left' width='50%' src="https://github-readme-stats.vercel.app/api/wakatime?username=codawn&theme=dark/">
+
+</div>
+
 <h2>Full Stack Developer</h2>
-<h3>🛠️ Skills 🛠️</h3>
+<h3>🛠️ Tech Stacks</h3>
 <div>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -15,9 +21,9 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </div>
 <hr/>
-<h3>🚀 Stats 🚀</h3>
+<h3>📞 Contact</h3>
 <br/>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=c0da3n&show_icons=true&theme=tokyonight" width="42%"/>  
+  
 </div>
 
