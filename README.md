@@ -2,7 +2,7 @@
   <h1>Jay Min </h1>
 </div>
 <div>
-  <img align='left'  width="50%" src="https://github-readme-stats.vercel.app/api?username=c0da3n&show_icons=true&theme=dark"/>  
+  <img align='left'  width="50%" src="https://github-readme-stats.vercel.app/api?username=c0da3n&show_icons=true"/>  
   <img align='left' width='50%' src="https://github-readme-stats.vercel.app/api/wakatime?username=codawn&theme=dark/">
 
 </div>
